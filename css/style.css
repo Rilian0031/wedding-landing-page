@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#header-bg{
+    background-image: url('../images/happywedding.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 1rem;
+
+}
+
+#navv{
+    display: flex;
+    gap: 2rem;
+}
+
+#ul-list{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+
+.nav-links{
+    color: white;
+    text-decoration: none;
+
+}
+
+#logo{
+    text-decoration: none;
+    color: yellow;
+    font-weight: 1000;
+}
+
